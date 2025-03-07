@@ -1,9 +1,17 @@
 ## Hi there 👋
 
+
+Here are some ideas to get you started:
+My name is **Ziyi Yang (杨子逸)**. You can call me Ziyi.
+
+- 🌱 I’m currently learning at Sun Yat-sen University as a second-year MS student (expected to graduate in 2026), advised by [Prof. Xiaojun Quan](https://sites.google.com/site/xiaojunquan/). Before this, I received my Bachelor's degree (2019-2023, computer science and technology) from Sun Yat-sen University.
+- 🤔 My main research interests focus on heterogeneous **model fusion** (e.g., combining the strengths of multiple large language models (LLMs) with diverse structures/scales) and **preference optimization** algorithm (e.g., DPO, SimPO).
+- 📫 How to reach me: [E-mail](yanzy39@mail2.sysu.edu.cn)
+  
+View my [homepage](https://yangzy39.github.io/).
 <!--
 **yangzy39/yangzy39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
